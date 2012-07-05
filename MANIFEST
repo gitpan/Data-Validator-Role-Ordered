@@ -1,0 +1,5 @@
+.tags
+Build.PL
+lib/Data/Validator/Role/Ordered.pm
+MANIFEST			This list of files
+t/107_ordered.t
